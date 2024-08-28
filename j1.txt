@@ -1,2 +1,4 @@
 this is j1 file of master branch
 updating for merge conflict in master branch
+this is j1 file of janani branch
+updating for merge conflict from janani branch
