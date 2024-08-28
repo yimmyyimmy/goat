@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 this is j1 file of master branch
 updating for merge conflict in master branch
 this is j1 file of janani branch
 updating for merge conflict from janani branch
-=======
-this is j1 file of jan branch
-updating for merge
->>>>>>> parent of 80b13a5 (committed from janani for j1 file)
