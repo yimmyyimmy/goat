@@ -1,2 +1,2 @@
-this is j1 file of jan branch
-updating for merge
+this is j1 file of janani branch
+updating for merge conflict from janani branch
